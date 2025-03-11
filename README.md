@@ -12,7 +12,7 @@ Training-Free Neural Architecture Search (NAS) Using Radial Basis Function (RBF)
 ![](https://img.shields.io/github/last-commit/tomomasayamasaki/RBFleX-NAS)
 ![](https://img.shields.io/github/languages/count/tomomasayamasaki/RBFleX-NAS)
 
-## Creator Info
+## 🟨 Creator Info
 ### Tomomasa Yamasaki  
 Singapore University of Technology and Design (Sep 2021 intake)  
 Linkedin: https://www.linkedin.com/in/tomomasa/  
