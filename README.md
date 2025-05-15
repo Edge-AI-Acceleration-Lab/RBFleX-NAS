@@ -21,7 +21,9 @@ Linkedin: https://www.linkedin.com/in/tomomasa/
 Github: https://github.com/tomomasayamasaki
 
 ## 🟨 Download the paper
-https://ieeexplore.ieee.org/document/10959729
+[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](https://ieeexplore.ieee.org/document/10959729)  
+Tomomasa Yamasaki; Zhehui Wang; Tao Luo; Niangjun Chen; Bo Wang  
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 ## 🟨 What is RBFleX-NAS
 ![](png/overview.png)
