@@ -21,7 +21,7 @@ Linkedin: https://www.linkedin.com/in/tomomasa/
 Github: https://github.com/tomomasayamasaki
 
 ## 🟨 Download the paper
-Coming Soon...from IEEE Transactions on Neural Networks and Learning Systems.
+https://ieeexplore.ieee.org/document/10959729
 
 ## 🟨 What is RBFleX-NAS
 ![](png/overview.png)
