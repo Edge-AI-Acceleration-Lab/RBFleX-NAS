@@ -13,12 +13,25 @@ Training-Free Neural Architecture Search (NAS) Using Radial Basis Function (RBF)
 ![](https://img.shields.io/github/commit-activity/y/tomomasayamasaki/RBFleX-NAS)
 ![](https://img.shields.io/github/last-commit/tomomasayamasaki/RBFleX-NAS)
 ![](https://img.shields.io/github/languages/count/tomomasayamasaki/RBFleX-NAS)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tomomasayamasaki.RBFleX-NAS)
+![Training-Free NAS](https://img.shields.io/badge/NAS-training--free-critical)
+![Zero-Cost](https://img.shields.io/badge/Zero--Cost--Search-Enabled-blueviolet)
+
+![GitHub stars](https://img.shields.io/github/stars/tomomasayamasaki/RBFleX-NAS?style=social)
 
 ## 🟨 Creator Info
 ### Tomomasa Yamasaki  
 Singapore University of Technology and Design (Sep 2021 intake)  
-Linkedin: https://www.linkedin.com/in/tomomasa/  
-Github: https://github.com/tomomasayamasaki
+<p align="left">
+  <a href="https://www.linkedin.com/in/tomomasa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tomomasayamasaki" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
 
 ## 🟨 Download the paper
 [RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](https://ieeexplore.ieee.org/document/10959729)  
