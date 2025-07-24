@@ -45,8 +45,8 @@ Singapore University of Technology and Design (Sep 2021 intake)
 Tomomasa Yamasaki; Zhehui Wang; Tao Luo; Niangjun Chen; Bo Wang  
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-## How to run RBFleX-NAS
-Jump to [](https://github.com/tomomasayamasaki/RBFleX-NAS.git)
+## 🟨 How to run RBFleX-NAS
+Jump to https://github.com/tomomasayamasaki/RBFleX-NAS.git
 
 ## 🟨 Citing RBFleX-NAS
 If you use RBFleX, please cite the following paper:
