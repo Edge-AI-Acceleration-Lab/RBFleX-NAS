@@ -26,7 +26,7 @@ Training-Free Neural Architecture Search (NAS) Using Radial Basis Function (RBF)
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40" style="vertical-align: middle;"/>
 </a>
 
-## 🟨 Creator Info
+## Creator Info
 ### Tomomasa Yamasaki  
 Singapore University of Technology and Design (Sep 2021 intake)  
 <p align="left">
@@ -40,15 +40,15 @@ Singapore University of Technology and Design (Sep 2021 intake)
 </p>
 
 
-## 🟨 Download the paper
+## Download the paper
 [RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](https://ieeexplore.ieee.org/document/10959729)  
 Tomomasa Yamasaki; Zhehui Wang; Tao Luo; Niangjun Chen; Bo Wang  
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-## 🟨 How to run RBFleX-NAS
+## How to run RBFleX-NAS
 Jump to https://github.com/tomomasayamasaki/RBFleX-NAS.git
 
-## 🟨 Citing RBFleX-NAS
+## Citing RBFleX-NAS
 If you use RBFleX, please cite the following paper:
 ```
 @ARTICLE{10959729,
@@ -64,5 +64,5 @@ If you use RBFleX, please cite the following paper:
 
 ```
 
-## 🟨 Licence
+## Licence
 [MIT Licence](https://en.wikipedia.org/wiki/MIT_License)
